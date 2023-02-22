@@ -15,5 +15,3 @@ Key Features:
     6. Displays Round Number
     7. Will allow for shorter games
        (Example - Only playing the Even Rounds)
-
-Skull King Screen SHot.png
